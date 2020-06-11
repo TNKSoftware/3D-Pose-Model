@@ -1,5 +1,7 @@
 # Creating Model Dolls Using Machine Learning
 
+![Sample](https://github.com/TNKSoftware/3D-Pose-Model/blob/master/sample.jpg)
+
 ## :question: What's this?
 
 This is a demonstration of how a 3D pose estimation program creates a 3D model from a photograph.
